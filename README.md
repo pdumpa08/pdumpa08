@@ -4,8 +4,9 @@ Math of Computation (CS & Math) @ **UCLA** · Applied Development Intern @ **CAL
 
 I build things that interest me across hardware and software: graph ML research, computer vision for robots, embedded devices that connect to phones via Bluetooth, and more.
 
-### Research
-- **Graph ML for cybersecurity** (CALSys Lab): GCNs in PyTorch Geometric to predict hacker influence and malware adoption from dark-web forum data. Co-authoring 2 papers targeting ICWSM 2027.
+### Research & clubs
+- **Graph ML for cybersecurity** (CALSys Lab): GCNs in PyTorch Geometric to predict hacker influence and malware adoption from dark-web forum data, raising accuracy from a 66% baseline to 82%. Co-authoring 2 papers targeting ICWSM 2027.
+- **Autonomous drone interceptor** (UCLA UAS): stereo camera calibration (~0.5 px reprojection error) and 3D marker localization, integrated with ROS.
 
 ### Featured projects
 | Project | What it is | Stack |
