@@ -12,6 +12,7 @@ I build things that interest me across hardware and software: graph ML research,
 |---|---|---|
 | [Turkey](https://github.com/pdumpa08/turkey) | Hand-dodging "Turkish ice cream" robot, built in 36 hrs | OpenCV, MediaPipe, MicroPython |
 | [Health Wearable](https://github.com/pdumpa08/health-wearable) | TensorFlow Lite ML step-tracking wristband streaming over BLE to an iOS app | Arduino RP2040, TinyML, Swift |
+| [Intelligrader](https://github.com/Intelligrader/intelligrader_public) | AI grader giving AP History students instant SAQ feedback | FastAPI, llama.cpp, Docker, Next.js |
 | [Roosevelt Connect](https://github.com/Roosevelt-Connect/roosevelt-connect-showcase) | Campus app for a 4,000+ student school (led a 6-person team) | Flutter, Firebase |
 | [Canvas Drive Sync](https://github.com/pdumpa08/canvas-drive-sync) | Auto-syncs Canvas submissions into organized Google Drive folders | Python, Canvas + Drive APIs, SQLite |
 | [Tennis Video Analyzer](https://github.com/pdumpa08/tennis_video_analyzer) | Player/ball tracking and shot-speed stats from match video | YOLO, PyTorch, Flask |
